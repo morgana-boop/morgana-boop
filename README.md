@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" />
 </p>
----
 <h1 align="center">Hello !!!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=I+build+things.;I+break+things.;I+find+why+they+break.;Sometimes+I+fix+them." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <em>"I build things, break things and find why they break."</em>
 </p>
 
 ---
