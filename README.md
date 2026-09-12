@@ -73,7 +73,7 @@ Tools
 └── naabu
 ```
 
-O foco atual é construir uma base sólida em **Web Security, redes, reconhecimento e análise de aplicações**, mantendo os estudos orientados por prática e laboratório.
+O foco em ter uma base sólida em **Web Security, redes, reconhecimento e análise de aplicações**, mantendo os estudos orientados por prática e laboratório.
 
 ---
 
@@ -85,12 +85,6 @@ Laboratório prático voltado para **detecção, análise de logs, simulação d
 
 [Ver projeto](https://github.com/morgana-boop/mini-soc-lab)
 
-#### ServMaintenance
-
-Projeto backend desenvolvido para gerenciamento de serviços e manutenção, utilizando uma arquitetura orientada a API e persistência local.
-
-[Ver projeto](https://github.com/morgana-boop/ServMaintenance)
-
 #### Notes API
 
 Projeto voltado para desenvolvimento de backend e implementação de operações sobre dados utilizando uma API.
@@ -99,34 +93,6 @@ Projeto voltado para desenvolvimento de backend e implementação de operações
 
 ---
 
-### Em desenvolvimento
-
-```text
-C
-├── Algorithms
-├── Data Structures
-├── Memory
-└── Systems Programming
-
-Cybersecurity
-├── Web Security
-├── Networking
-├── Reconnaissance
-└── Detection & Investigation
-
-Systems
-├── Linux
-├── Bash
-├── Automation
-└── Infrastructure
-
-Hardware
-├── ESP32
-├── NRF24L01
-└── Embedded Systems
-```
-
----
 
 ### Contribution Streak
 
