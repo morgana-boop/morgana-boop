@@ -33,7 +33,7 @@ My goal is to understand not only how to use a tool, but what happens underneath
 ### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,c,python,git,java,nano,sqlite,js,html&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=arch,c,python,git,java,sqlite,js,html&perline=9" alt="Tech Stack" />
 </p>
 
 ---
