@@ -12,33 +12,33 @@
 
 ---
 
-### Sobre Mim
+### About Me
 
-Graduanda em **Ciência da Computação (B.C.C.)** no **IFMA**, com interesse concentrado em sistemas, programação, redes, segurança e hardware.
+Computer Science (B.C.C.) undergraduate at **IFMA**, focused on systems, programming, networking, security and hardware.
 
-Meu ambiente principal é **Arch Linux**, usado tanto como sistema de desenvolvimento quanto como laboratório para administração, automação e experimentação.
+My main environment is **Arch Linux**, used both as a development system and as a lab for administration, automation and experimentation.
 
-Atualmente trabalho principalmente com:
+Currently working mainly with:
 
-* **C** para fundamentos de programação, algoritmos e estruturas de dados
-* **Python / FastAPI** para desenvolvimento backend
-* **Linux / Bash** para automação e administração de sistemas
-* **Redes e Web Security** para estudo de reconhecimento, análise e segurança de aplicações
-* **ESP32 / NRF24L01** para experimentação com eletrônica e sistemas embarcados
+* **C** for programming fundamentals, algorithms and data structures
+* **Python / FastAPI** for backend development
+* **Linux / Bash** for automation and system administration
+* **Networking & Web Security** for reconnaissance, analysis and application security
+* **ESP32 / NRF24L01** for electronics and embedded experimentation
 
-Meu objetivo é entender não apenas como utilizar uma ferramenta, mas também o que acontece por baixo dela.
+My goal is to understand not only how to use a tool, but what happens underneath it.
 
 ---
 
-### Tecnologias & Ferramentas
+### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,c,python,fastapi,git,bash,vim,sqlite,arduino,js,nodejs,express,docker&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=arch,c,python,git,java,nano,sqlite,js,html&perline=9" alt="Tech Stack" />
 </p>
 
 ---
 
-### Ambiente
+### Environment
 
 ```text
 OS          → Arch Linux
@@ -53,7 +53,7 @@ Embedded    → ESP32 / NRF24L01 / Arduino
 
 ---
 
-### Segurança
+### Security
 
 ```text
 Web Security
@@ -73,26 +73,28 @@ Tools
 └── naabu
 ```
 
-O foco em ter uma base sólida em **Web Security, redes, reconhecimento e análise de aplicações**, mantendo os estudos orientados por prática e laboratório.
+Focused on building a solid foundation in **web security, networking, reconnaissance and application analysis**, with a practice- and lab-driven approach.
 
 ---
 
-### Projetos
+### Projects
 
 #### Mini SOC Lab
 
-Laboratório prático voltado para **detecção, análise de logs, simulação de ataques e investigação de incidentes**, com documentação das etapas de arquitetura, ambiente, cenários, detecções e investigação.
+Hands-on lab for **detection, log analysis, attack simulation and incident investigation**, documenting architecture, environment, scenarios, detections and investigation.
 
-[Ver projeto](https://github.com/morgana-boop/mini-soc-lab)
-
-#### Notes API
-
-Projeto voltado para desenvolvimento de backend e implementação de operações sobre dados utilizando uma API.
-
-[Ver projeto](https://github.com/morgana-boop/notes-api)
+[View project](https://github.com/morgana-boop/mini-soc-lab)
 
 ---
 
+### Discovered Issues
+
+| Issue | Description | Status |
+|---|---|---|
+| [#86](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/86) | Persistent HTML injection in submission comments: external `src` attributes are stored and auto-requested by viewers' browsers, enabling view tracking and leaking IP/User-Agent. | Fixed |
+| [#85](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/85) | No rate limiting on course enrolment key validation: repeated invalid attempts via `core_form_dynamic_form` all returned HTTP 200. | Open |
+
+---
 
 ### Contribution Streak
 
