@@ -92,7 +92,8 @@ Hands-on lab for **detection, log analysis, attack simulation and incident inves
 | Issue | Description | Status |
 |---|---|---|
 | [#86](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/86) | Persistent HTML injection in submission comments: external `src` attributes are stored and auto-requested by viewers' browsers, enabling view tracking and leaking IP/User-Agent. | Fixed |
-| [#85](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/85) | No rate limiting on course enrolment key validation: repeated invalid attempts via `core_form_dynamic_form` all returned HTTP 200. | Open |
+| [#85](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/85) | No rate limiting on course enrolment key validation: repeated invalid attempts via `core_form_dynamic_form` all returned HTTP 200. | Fixed |
+| [#84](https://github.com/Forte-Tecnologias/portal-cursos-feedback/issues/84) | Página de tag acessível por URL direta, mas ausente da navegação. | Open |
 
 ---
 
