@@ -14,7 +14,7 @@
 
 ### About Me
 
-Computer Science (B.C.C.) undergraduate at **IFMA**, focused on systems, programming, networking, security and hardware.
+Computer Science (B.C.C.) at **IFMA**, focused on systems, programming, networking, security and hardware.
 
 My main environment is **Arch Linux**, used both as a development system and as a lab for administration, automation and experimentation.
 
