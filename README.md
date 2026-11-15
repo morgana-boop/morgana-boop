@@ -18,7 +18,7 @@ Computer Science student at **IFMA**, focused on systems, networking and securit
 | [Mini SOC Lab](https://github.com/morgana-boop/mini-soc-lab) | Log collection, attack simulation, detection and incident investigation |
 | [Uptime Monitor](https://github.com/morgana-boop/uptime-monitor) | Daily URL checks via Python + GitHub Actions |
 | [Notes API](https://github.com/morgana-boop/notes-api) | REST CRUD API: Node.js, Express, SQLite |
-| [QAScript](https://github.com/morgana-boop/QAScript)) | Automated tests for rule H4 (discount and shipping): Ipê Pedidos |
+| [QAScript](https://github.com/morgana-boop/QAScript) | Automated tests for rule H4 (discount and shipping): Ipê Pedidos |
 
 
 ### Discovered Issues
